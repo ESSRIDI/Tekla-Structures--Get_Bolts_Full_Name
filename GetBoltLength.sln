@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetBoltLength", "GetBoltLength\GetBoltLength.csproj", "{BD4D87F1-8311-46B9-BEF6-BFD4A834FE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4D87F1-8311-46B9-BEF6-BFD4A834FE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4D87F1-8311-46B9-BEF6-BFD4A834FE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4D87F1-8311-46B9-BEF6-BFD4A834FE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4D87F1-8311-46B9-BEF6-BFD4A834FE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F4985E0-448B-432A-8F14-7607BA40D0E9}
+	EndGlobalSection
+EndGlobal
